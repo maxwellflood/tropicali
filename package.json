@@ -1,0 +1,29 @@
+{
+  "name": "tropicali",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxwellflood/tropicali.git"
+  },
+  "author": "Maxwell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxwellflood/tropicali/issues"
+  },
+  "homepage": "https://github.com/maxwellflood/tropicali#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.10.0",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "node-sass": "^4.9.4"
+  },
+  "dependencies": {},
+  "description": ""
+}
